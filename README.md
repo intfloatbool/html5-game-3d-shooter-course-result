@@ -1,5 +1,5 @@
 # The Result by passing my course about HTML5 Game Development ☻
-![Screen 0](/Screens/screen_1.jpg)
+![Screen 0](/Screens/screen_1.png)
 ## Controls
 ###  W A S D - move and rotate
 ###  Space - shooting mode
