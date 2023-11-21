@@ -1,0 +1,19 @@
+{
+    "name": "intfloatbool-web-shooter",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "scripts": {
+        "dev": "webpack serve",
+        "build": "webpack",
+        "dev-build": "webpack && webpack serve"
+    },
+    "author": "intfloatbool-vladimir-vodov",
+    "license": "ISC",
+    "devDependencies": {
+        "copy-webpack-plugin": "^11.0.0",
+        "webpack": "^5.89.0",
+        "webpack-cli": "^5.1.4",
+        "webpack-dev-server": "^4.15.1"
+    }
+}
